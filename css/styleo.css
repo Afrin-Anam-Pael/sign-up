@@ -1,0 +1,70 @@
+*{
+    margin:0px;
+}
+
+body{
+font-family:"Roboto", sans-serif;
+background:url(../img/fg.jpg);
+background-repeat:no-repeat;
+background-size:cover;
+
+
+}
+.text {
+
+background-color: #bd8f96de;
+color:white;
+
+}
+.hb{
+
+padding:15px;
+}
+
+.container {
+
+width: 650px;
+margin:10% auto;
+background-color: #bd8f96de ;
+padding:25px;
+}
+/*Admin login*/
+
+.login-section {
+
+background-color:#9a7272de;
+padding:15px;
+
+}
+
+.reset-section h2{
+
+color:white;
+text-align:center;
+font-size:32px;
+margin:10px 0px;
+text-align: center;
+
+}
+.form-control{
+
+width:94%;
+height:25px;
+padding:5px;
+margin: 5px 0px;
+display: block;
+}
+ 
+.btn{
+
+	margin:10px auto;
+	display: block;
+	background-color:#4c2222;
+	color:white;
+	padding:8px 16px;
+	border:none;
+	text-transform:uppercase;
+	box-shadow:3px 6px 12px #ffabab;
+}
+
+
